@@ -1,0 +1,47 @@
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe.config
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\bin\Debug\tec tac tou.pdb
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csprojResolveAssemblyReference.cache
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Form1.resources
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Properties.Resources.resources
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.GenerateResource.Cache
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\obj\Debug\tec tac tou.exe
+D:\المنهج\الصف الثانى\برمجة حاسب\tec tac tou\tec tac tou\obj\Debug\tec tac tou.pdb
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe.config
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.exe
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.pdb
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.pdb
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csprojResolveAssemblyReference.cache
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Form1.resources
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Properties.Resources.resources
+D:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.GenerateResource.Cache
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe.config
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.exe
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.pdb
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.pdb
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csprojResolveAssemblyReference.cache
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Form1.resources
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Properties.Resources.resources
+E:\yousef\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.GenerateResource.Cache
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe.config
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\bin\Debug\tec tac tou.pdb
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.AssemblyReference.cache
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Form1.resources
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Properties.Resources.resources
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.GenerateResource.cache
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.CoreCompileInputs.cache
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.exe
+D:\yousef\colleague\level2\heba elhadedy 2\tec tac tou\tec tac tou\obj\Debug\tec tac tou.pdb
+D:\yousef\programs\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe.config
+D:\yousef\programs\tec tac tou\tec tac tou\bin\Debug\tec tac tou.exe
+D:\yousef\programs\tec tac tou\tec tac tou\bin\Debug\tec tac tou.pdb
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.AssemblyReference.cache
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Form1.resources
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec_tac_tou.Properties.Resources.resources
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.GenerateResource.cache
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec tac tou.csproj.CoreCompileInputs.cache
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec tac tou.exe
+D:\yousef\programs\tec tac tou\tec tac tou\obj\Debug\tec tac tou.pdb
